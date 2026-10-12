@@ -1,0 +1,5 @@
+metric,value
+comparable_points,1747.0
+mean_signed_difference_c,1.7348654836863193
+mean_absolute_difference_c,1.7348654836863193
+maximum_absolute_difference_c,2.6030000000000015

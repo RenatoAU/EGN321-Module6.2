@@ -1,0 +1,108 @@
+{
+  "units": "degrees Celsius",
+  "alignment_key": "sample_number",
+  "original_measured_rows": 1800,
+  "original_prediction_rows": 1800,
+  "comparable_points": 1747,
+  "excluded_measured_rows": 53,
+  "status_counts": {
+    "OK": 1747,
+    "MISSING": 33,
+    "REJECTED": 14,
+    "SUSPICIOUS": 6
+  },
+  "timestamp_mismatches": 0,
+  "mean_signed_difference_c": 1.7348654836863193,
+  "mean_absolute_difference_c": 1.7348654836863193,
+  "minimum_signed_difference_c": 0.5390000000000015,
+  "maximum_absolute_difference_c": 2.6030000000000015,
+  "positive_residual_count": 1747,
+  "negative_residual_count": 0,
+  "zero_residual_count": 0,
+  "accepted_raw_difference_count": 0,
+  "expected_interval_seconds": 2.0,
+  "elapsed_seconds": 3952.0,
+  "clock_gap_count": 4,
+  "unrecorded_expected_slots": 177,
+  "clock_gaps": [
+    {
+      "previous_sample": 359,
+      "next_sample": 360,
+      "previous_timestamp": "2026-10-08T18:11:56+00:00",
+      "next_timestamp": "2026-10-08T18:12:32+00:00",
+      "elapsed_seconds": 36.0,
+      "extra_seconds": 34.0,
+      "unrecorded_expected_slots": 17
+    },
+    {
+      "previous_sample": 814,
+      "next_sample": 815,
+      "previous_timestamp": "2026-10-08T18:27:40+00:00",
+      "next_timestamp": "2026-10-08T18:29:14+00:00",
+      "elapsed_seconds": 94.0,
+      "extra_seconds": 92.0,
+      "unrecorded_expected_slots": 46
+    },
+    {
+      "previous_sample": 1209,
+      "next_sample": 1210,
+      "previous_timestamp": "2026-10-08T18:42:22+00:00",
+      "next_timestamp": "2026-10-08T18:45:24+00:00",
+      "elapsed_seconds": 182.0,
+      "extra_seconds": 180.0,
+      "unrecorded_expected_slots": 90
+    },
+    {
+      "previous_sample": 1544,
+      "next_sample": 1545,
+      "previous_timestamp": "2026-10-08T18:56:32+00:00",
+      "next_timestamp": "2026-10-08T18:57:22+00:00",
+      "elapsed_seconds": 50.0,
+      "extra_seconds": 48.0,
+      "unrecorded_expected_slots": 24
+    }
+  ],
+  "region_summary": [
+    {
+      "region": "1-450",
+      "count": 440,
+      "mean_signed_difference_c": 1.7500431818181819,
+      "mean_absolute_difference_c": 1.7500431818181819
+    },
+    {
+      "region": "451-800",
+      "count": 340,
+      "mean_signed_difference_c": 1.722920588235294,
+      "mean_absolute_difference_c": 1.722920588235294
+    },
+    {
+      "region": "801-1180",
+      "count": 370,
+      "mean_signed_difference_c": 1.707583783783784,
+      "mean_absolute_difference_c": 1.707583783783784
+    },
+    {
+      "region": "1181-1500",
+      "count": 305,
+      "mean_signed_difference_c": 1.7709868852459019,
+      "mean_absolute_difference_c": 1.7709868852459019
+    },
+    {
+      "region": "1501-1800",
+      "count": 292,
+      "mean_signed_difference_c": 1.7227431506849316,
+      "mean_absolute_difference_c": 1.7227431506849316
+    }
+  ],
+  "provenance": "Supplied classroom CSV pair; earlier model and physical sensor not identified",
+  "source_files": [
+    {
+      "filename": "EGN321_Module6_Assignment6_2_1800_Measured.csv",
+      "sha256": "e5bbd55d2ebd93c07108827949e026f2aaedba166baa31d441fa5030e5744eb7"
+    },
+    {
+      "filename": "EGN321_Module6_Assignment6_2_1800_Predictions.csv",
+      "sha256": "fce36ce6444b7f3f742c5f28ffad4f207032f5b47b7fbdb21e4849a2b719a3fc"
+    }
+  ]
+}

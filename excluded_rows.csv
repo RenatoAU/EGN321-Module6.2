@@ -1,0 +1,54 @@
+sample_number,timestamp,measured_temperature_c,accepted_temperature_c,sensor_status,status_reason,expected_interval_seconds,prediction_timestamp,predicted_temperature_c,included_in_comparison,comparison_reason,measured_value,predicted_value,signed_difference_c,absolute_difference_c,elapsed_minutes
+170,2026-10-08 18:05:38+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:05:38+00:00,22.409000,False,Excluded by sensor status,,22.409000,,,5.633333
+171,2026-10-08 18:05:40+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:05:40+00:00,22.407000,False,Excluded by sensor status,,22.407000,,,5.666667
+172,2026-10-08 18:05:42+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:05:42+00:00,22.405000,False,Excluded by sensor status,,22.405000,,,5.700000
+173,2026-10-08 18:05:44+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:05:44+00:00,22.402000,False,Excluded by sensor status,,22.402000,,,5.733333
+174,2026-10-08 18:05:46+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:05:46+00:00,22.400000,False,Excluded by sensor status,,22.400000,,,5.766667
+285,2026-10-08 18:09:28+00:00,61.500000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:09:28+00:00,21.906000,False,Excluded by sensor status,,21.906000,,,9.466667
+286,2026-10-08 18:09:30+00:00,64.000000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:09:30+00:00,21.900000,False,Excluded by sensor status,,21.900000,,,9.500000
+287,2026-10-08 18:09:32+00:00,68.200000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:09:32+00:00,21.895000,False,Excluded by sensor status,,21.895000,,,9.533333
+430,2026-10-08 18:14:52+00:00,31.648000,31.648000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:14:52+00:00,21.577000,False,Excluded by sensor status,,21.577000,,,14.866667
+431,2026-10-08 18:14:54+00:00,16.180000,16.180000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:14:54+00:00,21.579000,False,Excluded by sensor status,,21.579000,,,14.900000
+550,2026-10-08 18:18:52+00:00,73.400000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:18:52+00:00,23.284000,False,Excluded by sensor status,,23.284000,,,18.866667
+551,2026-10-08 18:18:54+00:00,75.200000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:18:54+00:00,23.289000,False,Excluded by sensor status,,23.289000,,,18.900000
+625,2026-10-08 18:21:22+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:22+00:00,23.595000,False,Excluded by sensor status,,23.595000,,,21.366667
+626,2026-10-08 18:21:24+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:24+00:00,23.597000,False,Excluded by sensor status,,23.597000,,,21.400000
+627,2026-10-08 18:21:26+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:26+00:00,23.600000,False,Excluded by sensor status,,23.600000,,,21.433333
+628,2026-10-08 18:21:28+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:28+00:00,23.602000,False,Excluded by sensor status,,23.602000,,,21.466667
+629,2026-10-08 18:21:30+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:30+00:00,23.604000,False,Excluded by sensor status,,23.604000,,,21.500000
+630,2026-10-08 18:21:32+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:32+00:00,23.607000,False,Excluded by sensor status,,23.607000,,,21.533333
+631,2026-10-08 18:21:34+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:34+00:00,23.609000,False,Excluded by sensor status,,23.609000,,,21.566667
+632,2026-10-08 18:21:36+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:21:36+00:00,23.611000,False,Excluded by sensor status,,23.611000,,,21.600000
+905,2026-10-08 18:32:14+00:00,-7.000000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:32:14+00:00,23.577000,False,Excluded by sensor status,,23.577000,,,32.233333
+906,2026-10-08 18:32:16+00:00,-4.500000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:32:16+00:00,23.575000,False,Excluded by sensor status,,23.575000,,,32.266667
+907,2026-10-08 18:32:18+00:00,-2.000000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:32:18+00:00,23.574000,False,Excluded by sensor status,,23.574000,,,32.300000
+1010,2026-10-08 18:35:44+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:35:44+00:00,23.716000,False,Excluded by sensor status,,23.716000,,,35.733333
+1011,2026-10-08 18:35:46+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:35:46+00:00,23.720000,False,Excluded by sensor status,,23.720000,,,35.766667
+1012,2026-10-08 18:35:48+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:35:48+00:00,23.724000,False,Excluded by sensor status,,23.724000,,,35.800000
+1013,2026-10-08 18:35:50+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:35:50+00:00,23.728000,False,Excluded by sensor status,,23.728000,,,35.833333
+1105,2026-10-08 18:38:54+00:00,34.475000,34.475000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:38:54+00:00,24.189000,False,Excluded by sensor status,,24.189000,,,38.900000
+1106,2026-10-08 18:38:56+00:00,19.366000,19.366000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:38:56+00:00,24.194000,False,Excluded by sensor status,,24.194000,,,38.933333
+1107,2026-10-08 18:38:58+00:00,19.165000,19.165000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:38:58+00:00,24.199000,False,Excluded by sensor status,,24.199000,,,38.966667
+1335,2026-10-08 18:49:34+00:00,58.700000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:49:34+00:00,22.801000,False,Excluded by sensor status,,22.801000,,,49.566667
+1336,2026-10-08 18:49:36+00:00,63.100000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:49:36+00:00,22.796000,False,Excluded by sensor status,,22.796000,,,49.600000
+1337,2026-10-08 18:49:38+00:00,67.000000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:49:38+00:00,22.790000,False,Excluded by sensor status,,22.790000,,,49.633333
+1338,2026-10-08 18:49:40+00:00,62.400000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 18:49:40+00:00,22.785000,False,Excluded by sensor status,,22.785000,,,49.666667
+1430,2026-10-08 18:52:44+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:44+00:00,22.396000,False,Excluded by sensor status,,22.396000,,,52.733333
+1431,2026-10-08 18:52:46+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:46+00:00,22.394000,False,Excluded by sensor status,,22.394000,,,52.766667
+1432,2026-10-08 18:52:48+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:48+00:00,22.391000,False,Excluded by sensor status,,22.391000,,,52.800000
+1433,2026-10-08 18:52:50+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:50+00:00,22.389000,False,Excluded by sensor status,,22.389000,,,52.833333
+1434,2026-10-08 18:52:52+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:52+00:00,22.387000,False,Excluded by sensor status,,22.387000,,,52.866667
+1435,2026-10-08 18:52:54+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:54+00:00,22.385000,False,Excluded by sensor status,,22.385000,,,52.900000
+1436,2026-10-08 18:52:56+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:56+00:00,22.383000,False,Excluded by sensor status,,22.383000,,,52.933333
+1437,2026-10-08 18:52:58+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:52:58+00:00,22.381000,False,Excluded by sensor status,,22.381000,,,52.966667
+1438,2026-10-08 18:53:00+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:53:00+00:00,22.379000,False,Excluded by sensor status,,22.379000,,,53.000000
+1439,2026-10-08 18:53:02+00:00,,,MISSING,No sensor value received,2,2026-10-08 18:53:02+00:00,22.377000,False,Excluded by sensor status,,22.377000,,,53.033333
+1490,2026-10-08 18:54:44+00:00,32.611000,32.611000,SUSPICIOUS,Large change from surrounding readings; review required,2,2026-10-08 18:54:44+00:00,22.364000,False,Excluded by sensor status,,22.364000,,,54.733333
+1660,2026-10-08 19:01:12+00:00,81.000000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 19:01:12+00:00,23.883000,False,Excluded by sensor status,,23.883000,,,61.200000
+1661,2026-10-08 19:01:14+00:00,78.500000,,REJECTED,Outside classroom supported temperature range 0-50 C,2,2026-10-08 19:01:14+00:00,23.887000,False,Excluded by sensor status,,23.887000,,,61.233333
+1735,2026-10-08 19:03:42+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:42+00:00,24.050000,False,Excluded by sensor status,,24.050000,,,63.700000
+1736,2026-10-08 19:03:44+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:44+00:00,24.050000,False,Excluded by sensor status,,24.050000,,,63.733333
+1737,2026-10-08 19:03:46+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:46+00:00,24.050000,False,Excluded by sensor status,,24.050000,,,63.766667
+1738,2026-10-08 19:03:48+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:48+00:00,24.050000,False,Excluded by sensor status,,24.050000,,,63.800000
+1739,2026-10-08 19:03:50+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:50+00:00,24.050000,False,Excluded by sensor status,,24.050000,,,63.833333
+1740,2026-10-08 19:03:52+00:00,,,MISSING,No sensor value received,2,2026-10-08 19:03:52+00:00,24.049000,False,Excluded by sensor status,,24.049000,,,63.866667
